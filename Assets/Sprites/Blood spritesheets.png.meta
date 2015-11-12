@@ -1,0 +1,5182 @@
+fileFormatVersion: 2
+guid: df881b16c2abffe42b74c6996b6c93fb
+timeCreated: 1446667253
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blood spritesheets_0
+    21300002: Blood spritesheets_1
+    21300004: Blood spritesheets_2
+    21300006: Blood spritesheets_3
+    21300008: Blood spritesheets_4
+    21300010: Blood spritesheets_5
+    21300012: Blood spritesheets_6
+    21300014: Blood spritesheets_7
+    21300016: Blood spritesheets_8
+    21300018: Blood spritesheets_9
+    21300020: Blood spritesheets_10
+    21300022: Blood spritesheets_11
+    21300024: Blood spritesheets_12
+    21300026: Blood spritesheets_13
+    21300028: Blood spritesheets_14
+    21300030: Blood spritesheets_15
+    21300032: Blood spritesheets_16
+    21300034: Blood spritesheets_17
+    21300036: Blood spritesheets_18
+    21300038: Blood spritesheets_19
+    21300040: Blood spritesheets_20
+    21300042: Blood spritesheets_21
+    21300044: Blood spritesheets_22
+    21300046: Blood spritesheets_23
+    21300048: Blood spritesheets_24
+    21300050: Blood spritesheets_25
+    21300052: Blood spritesheets_26
+    21300054: Blood spritesheets_27
+    21300056: Blood spritesheets_28
+    21300058: Blood spritesheets_29
+    21300060: Blood spritesheets_30
+    21300062: Blood spritesheets_31
+    21300064: Blood spritesheets_32
+    21300066: Blood spritesheets_33
+    21300068: Blood spritesheets_34
+    21300070: Blood spritesheets_35
+    21300072: Blood spritesheets_36
+    21300074: Blood spritesheets_37
+    21300076: Blood spritesheets_38
+    21300078: Blood spritesheets_39
+    21300080: Blood spritesheets_40
+    21300082: Blood spritesheets_41
+    21300084: Blood spritesheets_42
+    21300086: Blood spritesheets_43
+    21300088: Blood spritesheets_44
+    21300090: Blood spritesheets_45
+    21300092: Blood spritesheets_46
+    21300094: Blood spritesheets_47
+    21300096: Blood spritesheets_48
+    21300098: Blood spritesheets_49
+    21300100: Blood spritesheets_50
+    21300102: Blood spritesheets_51
+    21300104: Blood spritesheets_52
+    21300106: Blood spritesheets_53
+    21300108: Blood spritesheets_54
+    21300110: Blood spritesheets_55
+    21300112: Blood spritesheets_56
+    21300114: Blood spritesheets_57
+    21300116: Blood spritesheets_58
+    21300118: Blood spritesheets_59
+    21300120: Blood spritesheets_60
+    21300122: Blood spritesheets_61
+    21300124: Blood spritesheets_62
+    21300126: Blood spritesheets_63
+    21300128: Blood spritesheets_64
+    21300130: Blood spritesheets_65
+    21300132: Blood spritesheets_66
+    21300134: Blood spritesheets_67
+    21300136: Blood spritesheets_68
+    21300138: Blood spritesheets_69
+    21300140: Blood spritesheets_70
+    21300142: Blood spritesheets_71
+    21300144: Blood spritesheets_72
+    21300146: Blood spritesheets_73
+    21300148: Blood spritesheets_74
+    21300150: Blood spritesheets_75
+    21300152: Blood spritesheets_76
+    21300154: Blood spritesheets_77
+    21300156: Blood spritesheets_78
+    21300158: Blood spritesheets_79
+    21300160: Blood spritesheets_80
+    21300162: Blood spritesheets_81
+    21300164: Blood spritesheets_82
+    21300166: Blood spritesheets_83
+    21300168: Blood spritesheets_84
+    21300170: Blood spritesheets_85
+    21300172: Blood spritesheets_86
+    21300174: Blood spritesheets_87
+    21300176: Blood spritesheets_88
+    21300178: Blood spritesheets_89
+    21300180: Blood spritesheets_90
+    21300182: Blood spritesheets_91
+    21300184: Blood spritesheets_92
+    21300186: Blood spritesheets_93
+    21300188: Blood spritesheets_94
+    21300190: Blood spritesheets_95
+    21300192: Blood spritesheets_96
+    21300194: Blood spritesheets_97
+    21300196: Blood spritesheets_98
+    21300198: Blood spritesheets_99
+    21300200: Blood spritesheets_100
+    21300202: Blood spritesheets_101
+    21300204: Blood spritesheets_102
+    21300206: Blood spritesheets_103
+    21300208: Blood spritesheets_104
+    21300210: Blood spritesheets_105
+    21300212: Blood spritesheets_106
+    21300214: Blood spritesheets_107
+    21300216: Blood spritesheets_108
+    21300218: Blood spritesheets_109
+    21300220: Blood spritesheets_110
+    21300222: Blood spritesheets_111
+    21300224: Blood spritesheets_112
+    21300226: Blood spritesheets_113
+    21300228: Blood spritesheets_114
+    21300230: Blood spritesheets_115
+    21300232: Blood spritesheets_116
+    21300234: Blood spritesheets_117
+    21300236: Blood spritesheets_118
+    21300238: Blood spritesheets_119
+    21300240: Blood spritesheets_120
+    21300242: Blood spritesheets_121
+    21300244: Blood spritesheets_122
+    21300246: Blood spritesheets_123
+    21300248: Blood spritesheets_124
+    21300250: Blood spritesheets_125
+    21300252: Blood spritesheets_126
+    21300254: Blood spritesheets_127
+    21300256: Blood spritesheets_128
+    21300258: Blood spritesheets_129
+    21300260: Blood spritesheets_130
+    21300262: Blood spritesheets_131
+    21300264: Blood spritesheets_132
+    21300266: Blood spritesheets_133
+    21300268: Blood spritesheets_134
+    21300270: Blood spritesheets_135
+    21300272: Blood spritesheets_136
+    21300274: Blood spritesheets_137
+    21300276: Blood spritesheets_138
+    21300278: Blood spritesheets_139
+    21300280: Blood spritesheets_140
+    21300282: Blood spritesheets_141
+    21300284: Blood spritesheets_142
+    21300286: Blood spritesheets_143
+    21300288: Blood spritesheets_144
+    21300290: Blood spritesheets_145
+    21300292: Blood spritesheets_146
+    21300294: Blood spritesheets_147
+    21300296: Blood spritesheets_148
+    21300298: Blood spritesheets_149
+    21300300: Blood spritesheets_150
+    21300302: Blood spritesheets_151
+    21300304: Blood spritesheets_152
+    21300306: Blood spritesheets_153
+    21300308: Blood spritesheets_154
+    21300310: Blood spritesheets_155
+    21300312: Blood spritesheets_156
+    21300314: Blood spritesheets_157
+    21300316: Blood spritesheets_158
+    21300318: Blood spritesheets_159
+    21300320: Blood spritesheets_160
+    21300322: Blood spritesheets_161
+    21300324: Blood spritesheets_162
+    21300326: Blood spritesheets_163
+    21300328: Blood spritesheets_164
+    21300330: Blood spritesheets_165
+    21300332: Blood spritesheets_166
+    21300334: Blood spritesheets_167
+    21300336: Blood spritesheets_168
+    21300338: Blood spritesheets_169
+    21300340: Blood spritesheets_170
+    21300342: Blood spritesheets_171
+    21300344: Blood spritesheets_172
+    21300346: Blood spritesheets_173
+    21300348: Blood spritesheets_174
+    21300350: Blood spritesheets_175
+    21300352: Blood spritesheets_176
+    21300354: Blood spritesheets_177
+    21300356: Blood spritesheets_178
+    21300358: Blood spritesheets_179
+    21300360: Blood spritesheets_180
+    21300362: Blood spritesheets_181
+    21300364: Blood spritesheets_182
+    21300366: Blood spritesheets_183
+    21300368: Blood spritesheets_184
+    21300370: Blood spritesheets_185
+    21300372: Blood spritesheets_186
+    21300374: Blood spritesheets_187
+    21300376: Blood spritesheets_188
+    21300378: Blood spritesheets_189
+    21300380: Blood spritesheets_190
+    21300382: Blood spritesheets_191
+    21300384: Blood spritesheets_192
+    21300386: Blood spritesheets_193
+    21300388: Blood spritesheets_194
+    21300390: Blood spritesheets_195
+    21300392: Blood spritesheets_196
+    21300394: Blood spritesheets_197
+    21300396: Blood spritesheets_198
+    21300398: Blood spritesheets_199
+    21300400: Blood spritesheets_200
+    21300402: Blood spritesheets_201
+    21300404: Blood spritesheets_202
+    21300406: Blood spritesheets_203
+    21300408: Blood spritesheets_204
+    21300410: Blood spritesheets_205
+    21300412: Blood spritesheets_206
+    21300414: Blood spritesheets_207
+    21300416: Blood spritesheets_208
+    21300418: Blood spritesheets_209
+    21300420: Blood spritesheets_210
+    21300422: Blood spritesheets_211
+    21300424: Blood spritesheets_212
+    21300426: Blood spritesheets_213
+    21300428: Blood spritesheets_214
+    21300430: Blood spritesheets_215
+    21300432: Blood spritesheets_216
+    21300434: Blood spritesheets_217
+    21300436: Blood spritesheets_218
+    21300438: Blood spritesheets_219
+    21300440: Blood spritesheets_220
+    21300442: Blood spritesheets_221
+    21300444: Blood spritesheets_222
+    21300446: Blood spritesheets_223
+    21300448: Blood spritesheets_224
+    21300450: Blood spritesheets_225
+    21300452: Blood spritesheets_226
+    21300454: Blood spritesheets_227
+    21300456: Blood spritesheets_228
+    21300458: Blood spritesheets_229
+    21300460: Blood spritesheets_230
+    21300462: Blood spritesheets_231
+    21300464: Blood spritesheets_232
+    21300466: Blood spritesheets_233
+    21300468: Blood spritesheets_234
+    21300470: Blood spritesheets_235
+    21300472: Blood spritesheets_236
+    21300474: Blood spritesheets_237
+    21300476: Blood spritesheets_238
+    21300478: Blood spritesheets_239
+    21300480: Blood spritesheets_240
+    21300482: Blood spritesheets_241
+    21300484: Blood spritesheets_242
+    21300486: Blood spritesheets_243
+    21300488: Blood spritesheets_244
+    21300490: Blood spritesheets_245
+    21300492: Blood spritesheets_246
+    21300494: Blood spritesheets_247
+    21300496: Blood spritesheets_248
+    21300498: Blood spritesheets_249
+    21300500: Blood spritesheets_250
+    21300502: Blood spritesheets_251
+    21300504: Blood spritesheets_252
+    21300506: Blood spritesheets_253
+    21300508: Blood spritesheets_254
+    21300510: Blood spritesheets_255
+    21300512: Blood spritesheets_256
+    21300514: Blood spritesheets_257
+    21300516: Blood spritesheets_258
+    21300518: Blood spritesheets_259
+    21300520: Blood spritesheets_260
+    21300522: Blood spritesheets_261
+    21300524: Blood spritesheets_262
+    21300526: Blood spritesheets_263
+    21300528: Blood spritesheets_264
+    21300530: Blood spritesheets_265
+    21300532: Blood spritesheets_266
+    21300534: Blood spritesheets_267
+    21300536: Blood spritesheets_268
+    21300538: Blood spritesheets_269
+    21300540: Blood spritesheets_270
+    21300542: Blood spritesheets_271
+    21300544: Blood spritesheets_272
+    21300546: Blood spritesheets_273
+    21300548: Blood spritesheets_274
+    21300550: Blood spritesheets_275
+    21300552: Blood spritesheets_276
+    21300554: Blood spritesheets_277
+    21300556: Blood spritesheets_278
+    21300558: Blood spritesheets_279
+    21300560: Blood spritesheets_280
+    21300562: Blood spritesheets_281
+    21300564: Blood spritesheets_282
+    21300566: Blood spritesheets_283
+    21300568: Blood spritesheets_284
+    21300570: Blood spritesheets_285
+    21300572: Blood spritesheets_286
+    21300574: Blood spritesheets_287
+    21300576: Blood spritesheets_288
+    21300578: Blood spritesheets_289
+    21300580: Blood spritesheets_290
+    21300582: Blood spritesheets_291
+    21300584: Blood spritesheets_292
+    21300586: Blood spritesheets_293
+    21300588: Blood spritesheets_294
+    21300590: Blood spritesheets_295
+    21300592: Blood spritesheets_296
+    21300594: Blood spritesheets_297
+    21300596: Blood spritesheets_298
+    21300598: Blood spritesheets_299
+    21300600: Blood spritesheets_300
+    21300602: Blood spritesheets_301
+    21300604: Blood spritesheets_302
+    21300606: Blood spritesheets_303
+    21300608: Blood spritesheets_304
+    21300610: Blood spritesheets_305
+    21300612: Blood spritesheets_306
+    21300614: Blood spritesheets_307
+    21300616: Blood spritesheets_308
+    21300618: Blood spritesheets_309
+    21300620: Blood spritesheets_310
+    21300622: Blood spritesheets_311
+    21300624: Blood spritesheets_312
+    21300626: Blood spritesheets_313
+    21300628: Blood spritesheets_314
+    21300630: Blood spritesheets_315
+    21300632: Blood spritesheets_316
+    21300634: Blood spritesheets_317
+    21300636: Blood spritesheets_318
+    21300638: Blood spritesheets_319
+    21300640: Blood spritesheets_320
+    21300642: Blood spritesheets_321
+    21300644: Blood spritesheets_322
+    21300646: Blood spritesheets_323
+    21300648: Blood spritesheets_324
+    21300650: Blood spritesheets_325
+    21300652: Blood spritesheets_326
+    21300654: Blood spritesheets_327
+    21300656: Blood spritesheets_328
+    21300658: Blood spritesheets_329
+    21300660: Blood spritesheets_330
+    21300662: Blood spritesheets_331
+    21300664: Blood spritesheets_332
+    21300666: Blood spritesheets_333
+    21300668: Blood spritesheets_334
+    21300670: Blood spritesheets_335
+    21300672: Blood spritesheets_336
+    21300674: Blood spritesheets_337
+    21300676: Blood spritesheets_338
+    21300678: Blood spritesheets_339
+    21300680: Blood spritesheets_340
+    21300682: Blood spritesheets_341
+    21300684: Blood spritesheets_342
+    21300686: Blood spritesheets_343
+    21300688: Blood spritesheets_344
+    21300690: Blood spritesheets_345
+    21300692: Blood spritesheets_346
+    21300694: Blood spritesheets_347
+    21300696: Blood spritesheets_348
+    21300698: Blood spritesheets_349
+    21300700: Blood spritesheets_350
+    21300702: Blood spritesheets_351
+    21300704: Blood spritesheets_352
+    21300706: Blood spritesheets_353
+    21300708: Blood spritesheets_354
+    21300710: Blood spritesheets_355
+    21300712: Blood spritesheets_356
+    21300714: Blood spritesheets_357
+    21300716: Blood spritesheets_358
+    21300718: Blood spritesheets_359
+    21300720: Blood spritesheets_360
+    21300722: Blood spritesheets_361
+    21300724: Blood spritesheets_362
+    21300726: Blood spritesheets_363
+    21300728: Blood spritesheets_364
+    21300730: Blood spritesheets_365
+    21300732: Blood spritesheets_366
+    21300734: Blood spritesheets_367
+    21300736: Blood spritesheets_368
+    21300738: Blood spritesheets_369
+    21300740: Blood spritesheets_370
+    21300742: Blood spritesheets_371
+    21300744: Blood spritesheets_372
+    21300746: Blood spritesheets_373
+    21300748: Blood spritesheets_374
+    21300750: Blood spritesheets_375
+    21300752: Blood spritesheets_376
+    21300754: Blood spritesheets_377
+    21300756: Blood spritesheets_378
+    21300758: Blood spritesheets_379
+    21300760: Blood spritesheets_380
+    21300762: Blood spritesheets_381
+    21300764: Blood spritesheets_382
+    21300766: Blood spritesheets_383
+    21300768: Blood spritesheets_384
+    21300770: Blood spritesheets_385
+    21300772: Blood spritesheets_386
+    21300774: Blood spritesheets_387
+    21300776: Blood spritesheets_388
+    21300778: Blood spritesheets_389
+    21300780: Blood spritesheets_390
+    21300782: Blood spritesheets_391
+    21300784: Blood spritesheets_392
+    21300786: Blood spritesheets_393
+    21300788: Blood spritesheets_394
+    21300790: Blood spritesheets_395
+    21300792: Blood spritesheets_396
+    21300794: Blood spritesheets_397
+    21300796: Blood spritesheets_398
+    21300798: Blood spritesheets_399
+    21300800: Blood spritesheets_400
+    21300802: Blood spritesheets_401
+    21300804: Blood spritesheets_402
+    21300806: Blood spritesheets_403
+    21300808: Blood spritesheets_404
+    21300810: Blood spritesheets_405
+    21300812: Blood spritesheets_406
+    21300814: Blood spritesheets_407
+    21300816: Blood spritesheets_408
+    21300818: Blood spritesheets_409
+    21300820: Blood spritesheets_410
+    21300822: Blood spritesheets_411
+    21300824: Blood spritesheets_412
+    21300826: Blood spritesheets_413
+    21300828: Blood spritesheets_414
+    21300830: Blood spritesheets_415
+    21300832: Blood spritesheets_416
+    21300834: Blood spritesheets_417
+    21300836: Blood spritesheets_418
+    21300838: Blood spritesheets_419
+    21300840: Blood spritesheets_420
+    21300842: Blood spritesheets_421
+    21300844: Blood spritesheets_422
+    21300846: Blood spritesheets_423
+    21300848: Blood spritesheets_424
+    21300850: Blood spritesheets_425
+    21300852: Blood spritesheets_426
+    21300854: Blood spritesheets_427
+    21300856: Blood spritesheets_428
+    21300858: Blood spritesheets_429
+    21300860: Blood spritesheets_430
+    21300862: Blood spritesheets_431
+    21300864: Blood spritesheets_432
+    21300866: Blood spritesheets_433
+    21300868: Blood spritesheets_434
+    21300870: Blood spritesheets_435
+    21300872: Blood spritesheets_436
+    21300874: Blood spritesheets_437
+    21300876: Blood spritesheets_438
+    21300878: Blood spritesheets_439
+    21300880: Blood spritesheets_440
+    21300882: Blood spritesheets_441
+    21300884: Blood spritesheets_442
+    21300886: Blood spritesheets_443
+    21300888: Blood spritesheets_444
+    21300890: Blood spritesheets_445
+    21300892: Blood spritesheets_446
+    21300894: Blood spritesheets_447
+    21300896: Blood spritesheets_448
+    21300898: Blood spritesheets_449
+    21300900: Blood spritesheets_450
+    21300902: Blood spritesheets_451
+    21300904: Blood spritesheets_452
+    21300906: Blood spritesheets_453
+    21300908: Blood spritesheets_454
+    21300910: Blood spritesheets_455
+    21300912: Blood spritesheets_456
+    21300914: Blood spritesheets_457
+    21300916: Blood spritesheets_458
+    21300918: Blood spritesheets_459
+    21300920: Blood spritesheets_460
+    21300922: Blood spritesheets_461
+    21300924: Blood spritesheets_462
+    21300926: Blood spritesheets_463
+    21300928: Blood spritesheets_464
+    21300930: Blood spritesheets_465
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blood spritesheets_0
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 7774
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_1
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 7770
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_2
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 7415
+        width: 336
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_3
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 7770
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_4
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 7415
+        width: 352
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_5
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 7415
+        width: 376
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_6
+      rect:
+        serializedVersion: 2
+        x: 5190
+        y: 7415
+        width: 400
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_7
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 7414
+        width: 420
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_8
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 7766
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 7478
+        width: 328
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 7652
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_12
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_13
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 7652
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_14
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_15
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_16
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_17
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 7658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_18
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_19
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_20
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_21
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_22
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_23
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 7634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_24
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 7618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_25
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 7618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_26
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 7618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_27
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 7618
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_28
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_29
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_30
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_31
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_32
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_33
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 7570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_34
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 7555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_35
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 7555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_36
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 7555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_37
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 7555
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7502
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 7498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_40
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 7502
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_41
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 7498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_42
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 7502
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_43
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 7498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_44
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 7498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 7474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_46
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 7415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 7470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_48
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 7452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_49
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 7452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_50
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 7426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_51
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 7416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_53
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_54
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_55
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_56
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_57
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_58
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 7382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_59
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 6458
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_60
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 6202
+        width: 452
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_61
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 6458
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_62
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 6214
+        width: 476
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_63
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 6458
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_64
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 6198
+        width: 500
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_65
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 6182
+        width: 540
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_66
+      rect:
+        serializedVersion: 2
+        x: 5126
+        y: 6160
+        width: 580
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_67
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 6176
+        width: 556
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6434
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_69
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 6434
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_70
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 6414
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_71
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 6370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_72
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 6370
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_73
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 6190
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_74
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 6174
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_75
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 6182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_76
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 6182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_77
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 6182
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_78
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 6162
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_79
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 6150
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_80
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 6150
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4982
+        width: 532
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_82
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 5258
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_83
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 5002
+        width: 488
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_84
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 5258
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_85
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 5015
+        width: 458
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_86
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 5258
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_87
+      rect:
+        serializedVersion: 2
+        x: 4002
+        y: 5038
+        width: 436
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_88
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 5258
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_89
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 5054
+        width: 416
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_90
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 5258
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_91
+      rect:
+        serializedVersion: 2
+        x: 6426
+        y: 5070
+        width: 390
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_92
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 5234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_93
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 5234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_94
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 5234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_95
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 5234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_96
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 5234
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_97
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_98
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_99
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_100
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_101
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_102
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 5210
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_103
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 5170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_104
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 5170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_105
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 5170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_106
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 5170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_107
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 5170
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_108
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 5138
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_109
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 5138
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_110
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 5138
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_111
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 5090
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_112
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 5015
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_113
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 5090
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_114
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 5015
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_115
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 5090
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_116
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 5015
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_117
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 5052
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_118
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 5052
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_119
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 5026
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_120
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 5026
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_121
+      rect:
+        serializedVersion: 2
+        x: 6714
+        y: 5026
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_122
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 5020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_123
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 5020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_124
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 5020
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_125
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 4988
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_126
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 4988
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_127
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 4988
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_128
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 5016
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_129
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 4988
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_130
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 5016
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_131
+      rect:
+        serializedVersion: 2
+        x: 6458
+        y: 4988
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_132
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 5016
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_133
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 4982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_134
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 4982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_135
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 4982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_136
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 4982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_137
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 4982
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_138
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_139
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_140
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_141
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_142
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_143
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 4950
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_144
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_145
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3886
+        width: 372
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_146
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_147
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3898
+        width: 356
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_148
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_149
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3906
+        width: 342
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_150
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_151
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 3918
+        width: 324
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_152
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_153
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 3930
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_154
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 4058
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_155
+      rect:
+        serializedVersion: 2
+        x: 6482
+        y: 3930
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_156
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_157
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_158
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_159
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_160
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_161
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 4034
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_162
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_163
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_164
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_165
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_166
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_167
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 4010
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_168
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_169
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_170
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_171
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_172
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_173
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 3970
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_174
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_175
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_176
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_177
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_178
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_179
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 3938
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_180
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_181
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_182
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_183
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 3898
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_184
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_185
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 3898
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_186
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_187
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 3898
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_188
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 3890
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_189
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 3898
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_190
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_191
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_192
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_193
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_194
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_195
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_196
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_197
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_198
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_199
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_200
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_201
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_202
+      rect:
+        serializedVersion: 2
+        x: 5230
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_203
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_204
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_205
+      rect:
+        serializedVersion: 2
+        x: 6430
+        y: 3874
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_206
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 3815
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_207
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 3870
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_208
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_209
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_210
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_211
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_212
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_213
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 3852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_214
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_215
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_216
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_217
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_218
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_219
+      rect:
+        serializedVersion: 2
+        x: 6714
+        y: 3826
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_220
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_221
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_222
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_223
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_224
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_225
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 3820
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_226
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_227
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_228
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_229
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_230
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_231
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_232
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_233
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_234
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_235
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_236
+      rect:
+        serializedVersion: 2
+        x: 6458
+        y: 3788
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_237
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 3816
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_238
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_239
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_240
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_241
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_242
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_243
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 3782
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_244
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_245
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_246
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_247
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_248
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_249
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 3750
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_250
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_251
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_252
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_253
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_254
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_255
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_256
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_257
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_258
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_259
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_260
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 2858
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_261
+      rect:
+        serializedVersion: 2
+        x: 6482
+        y: 2730
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_262
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_263
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_264
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_265
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_266
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_267
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 2834
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_268
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_269
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_270
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_271
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_272
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_273
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 2810
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_274
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_275
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_276
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_277
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_278
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_279
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 2770
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_280
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_281
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_282
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_283
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_284
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_285
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 2738
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_286
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_287
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_288
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_289
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_290
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_291
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_292
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_293
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_294
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_295
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_296
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 2690
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_297
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 2698
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_298
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_299
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_300
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_301
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_302
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_303
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_304
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_305
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_306
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_307
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_308
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_309
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_310
+      rect:
+        serializedVersion: 2
+        x: 5230
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_311
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_312
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_313
+      rect:
+        serializedVersion: 2
+        x: 6430
+        y: 2674
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_314
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 2615
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_315
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 2670
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_316
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_317
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_318
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_319
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_320
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_321
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 2652
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_322
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_323
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_324
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_325
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_326
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_327
+      rect:
+        serializedVersion: 2
+        x: 6714
+        y: 2626
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_328
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_329
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_330
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_331
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_332
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_333
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 2620
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_334
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_335
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_336
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_337
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_338
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_339
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_340
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_341
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_342
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_343
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_344
+      rect:
+        serializedVersion: 2
+        x: 6458
+        y: 2588
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_345
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 2616
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_346
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_347
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_348
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_349
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_350
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_351
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 2582
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_352
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_353
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_354
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_355
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_356
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_357
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 2550
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_358
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_359
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_360
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_361
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_362
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_363
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_364
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_365
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_366
+      rect:
+        serializedVersion: 2
+        x: 5142
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_367
+      rect:
+        serializedVersion: 2
+        x: 5282
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_368
+      rect:
+        serializedVersion: 2
+        x: 6342
+        y: 1658
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_369
+      rect:
+        serializedVersion: 2
+        x: 6482
+        y: 1530
+        width: 312
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_370
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_371
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_372
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_373
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_374
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_375
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 1634
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_376
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_377
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_378
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_379
+      rect:
+        serializedVersion: 2
+        x: 3930
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_380
+      rect:
+        serializedVersion: 2
+        x: 5130
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_381
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 1610
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_382
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_383
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_384
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_385
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_386
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_387
+      rect:
+        serializedVersion: 2
+        x: 6358
+        y: 1570
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_388
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_389
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_390
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_391
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_392
+      rect:
+        serializedVersion: 2
+        x: 5198
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_393
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 1538
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_394
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_395
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_396
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_397
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_398
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_399
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_400
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_401
+      rect:
+        serializedVersion: 2
+        x: 4370
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_402
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_403
+      rect:
+        serializedVersion: 2
+        x: 5570
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_404
+      rect:
+        serializedVersion: 2
+        x: 6394
+        y: 1490
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_405
+      rect:
+        serializedVersion: 2
+        x: 6770
+        y: 1498
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_406
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_407
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_408
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_409
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_410
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_411
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_412
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_413
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_414
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_415
+      rect:
+        serializedVersion: 2
+        x: 4030
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_416
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_417
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_418
+      rect:
+        serializedVersion: 2
+        x: 5230
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_419
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_420
+      rect:
+        serializedVersion: 2
+        x: 5486
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_421
+      rect:
+        serializedVersion: 2
+        x: 6430
+        y: 1474
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_422
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 1415
+        width: 115
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_423
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 1470
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_424
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_425
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_426
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_427
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_428
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_429
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 1452
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_430
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_431
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_432
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_433
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_434
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_435
+      rect:
+        serializedVersion: 2
+        x: 6714
+        y: 1426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_436
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_437
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_438
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_439
+      rect:
+        serializedVersion: 2
+        x: 4280
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_440
+      rect:
+        serializedVersion: 2
+        x: 5480
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_441
+      rect:
+        serializedVersion: 2
+        x: 6680
+        y: 1420
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_442
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_443
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_444
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_445
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_446
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_447
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_448
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_449
+      rect:
+        serializedVersion: 2
+        x: 4216
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_450
+      rect:
+        serializedVersion: 2
+        x: 5258
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_451
+      rect:
+        serializedVersion: 2
+        x: 5416
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_452
+      rect:
+        serializedVersion: 2
+        x: 6458
+        y: 1388
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_453
+      rect:
+        serializedVersion: 2
+        x: 6616
+        y: 1416
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_454
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_455
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_456
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_457
+      rect:
+        serializedVersion: 2
+        x: 4310
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_458
+      rect:
+        serializedVersion: 2
+        x: 5510
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_459
+      rect:
+        serializedVersion: 2
+        x: 6710
+        y: 1382
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_460
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_461
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_462
+      rect:
+        serializedVersion: 2
+        x: 2942
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_463
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_464
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blood spritesheets_465
+      rect:
+        serializedVersion: 2
+        x: 6542
+        y: 1350
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

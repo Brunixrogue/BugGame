@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 2754c670d2d181b4ba28d362cdeef80a
+timeCreated: 1446666166
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Health Bars (1)_0
+    21300002: Health Bars (1)_1
+    21300004: Health Bars (1)_2
+    21300006: Health Bars (1)_3
+    21300008: Health Bars (1)_4
+    21300010: Health Bars (1)_5
+    21300012: Health Bars (1)_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Health Bars (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1731
+        width: 1765
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_1
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 1713
+        width: 1765
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1209
+        width: 1532
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_3
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 916
+        width: 1532
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_4
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 579
+        width: 1532
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 304
+        width: 1532
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Health Bars (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 0
+        width: 1532
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

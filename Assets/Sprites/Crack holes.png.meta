@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: f9e2f0f537772644898c761e6df37d19
+timeCreated: 1446664038
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crack holes_0
+    21300002: Crack holes_1
+    21300004: Crack holes_2
+    21300006: Crack holes_3
+    21300008: Crack holes_4
+    21300010: Crack holes_5
+    21300012: Crack holes_6
+    21300014: Crack holes_7
+    21300016: Crack holes_8
+    21300018: Crack holes_9
+    21300020: Crack holes_10
+    21300022: Crack holes_11
+    21300024: Crack holes_12
+    21300026: Crack holes_13
+    21300028: Crack holes_14
+    21300030: Crack holes_15
+    21300032: Crack holes_16
+    21300034: Crack holes_17
+    21300036: Crack holes_18
+    21300038: Crack holes_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Crack holes_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 988
+        width: 200
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 978
+        width: 177
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 964
+        width: 200
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_3
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 948
+        width: 231
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 711
+        width: 164
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 706
+        width: 155
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 661
+        width: 262
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 677
+        width: 229
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 508
+        width: 183
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 442
+        width: 173
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_10
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 422
+        width: 202
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 415
+        width: 234
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 280
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_13
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 235
+        width: 166
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 206
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_15
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 202
+        width: 206
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 83
+        width: 123
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_17
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 19
+        width: 196
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 17
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Crack holes_19
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 234
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
